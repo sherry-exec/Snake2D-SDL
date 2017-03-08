@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1436042720 source:h:\snake game\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_timer.h"
+	"SDL/SDL_mixer.h"
+	"graphics/timer.h"
+	"graphics/graphics.h"
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"Snake.h"
+	"Maze.h"
+
+1435920986 h:\snake game\include\snake.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_timer.h"
+	"Maze.h"
+
+1435922470 source:h:\snake game\src\snake.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_timer.h"
+	"SDL/SDL_mixer.h"
+	"graphics/timer.h"
+	"graphics/graphics.h"
+	<iostream>
+	<string>
+	<sstream>
+	"Snake.h"
+	"Maze.h"
+
+1435369555 h:\snake game\include\maze.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_timer.h"
+
+1435405300 source:h:\snake game\src\maze.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_timer.h"
+	"SDL/SDL_mixer.h"
+	"graphics/timer.h"
+	"graphics/graphics.h"
+	<iostream>
+	<string>
+	<sstream>
+	"Maze.h"
+
+1436040035 source:h:\dropbox\software projects\sdl projects\sdl 1\snake game\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_timer.h"
+	"SDL/SDL_mixer.h"
+	"graphics/timer.h"
+	"graphics/graphics.h"
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"Snake.h"
+	"Maze.h"
+
+1435917386 h:\dropbox\software projects\sdl projects\sdl 1\snake game\include\snake.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_timer.h"
+	"Maze.h"
+
+1435365955 h:\dropbox\software projects\sdl projects\sdl 1\snake game\include\maze.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_timer.h"
+
+1435401700 source:h:\dropbox\software projects\sdl projects\sdl 1\snake game\src\maze.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_timer.h"
+	"SDL/SDL_mixer.h"
+	"graphics/timer.h"
+	"graphics/graphics.h"
+	<iostream>
+	<string>
+	<sstream>
+	"Maze.h"
+
+1435918870 source:h:\dropbox\software projects\sdl projects\sdl 1\snake game\src\snake.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_timer.h"
+	"SDL/SDL_mixer.h"
+	"graphics/timer.h"
+	"graphics/graphics.h"
+	<iostream>
+	<string>
+	<sstream>
+	"Snake.h"
+	"Maze.h"
+
